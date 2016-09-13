@@ -62,7 +62,7 @@ body {
   font-weight:400;
 }
 
-horizontal-links li {
+.horizontal-links li {
 display: inline-block;
 vertical-align: middle;
 }
