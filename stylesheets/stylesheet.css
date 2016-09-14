@@ -879,3 +879,13 @@ footer a:hover {
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) { }
 
+.horizontal-links li {
+  display: inline-block;
+  vertical-align: middle;
+  background:#eee;
+}
+
+.horizontal-links li a{
+  padding: 10px 15px;
+  font-size: 12px;
+}

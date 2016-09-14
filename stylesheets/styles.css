@@ -62,10 +62,7 @@ body {
   font-weight:400;
 }
 
-.horizontal-links li {
-  display: inline-block;
-  vertical-align: middle;
-}
+
 
 h1, h2, h3, h4, h5, h6 {
   color:#222;
